@@ -1,5 +1,5 @@
 ---
-title: Moving a file to a new location
+title: Moving a file to a new locationعع
 intro: 'You can move a file to a different directory on {% data variables.product.product_name %} or by using the command line.'
 redirect_from:
   - /articles/moving-a-file-to-a-new-location
